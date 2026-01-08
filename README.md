@@ -8,6 +8,19 @@ Welcome to my **UI Clones Repository**! In this repository, I’ve recreated the
 
 https://apple-vision-main-two.vercel.app/
 
+https://sidcup-family-golf-three.vercel.app
+
+https://spotify-ui-clone-seven.vercel.app
+
+https://myntra-ui-clone-eight.vercel.app
+
+https://netflix-ui-clone-indol.vercel.app
+
+https://sundown-ui-clone.vercel.app
+
+https://amazon-landing-page-ui.vercel.app/
+
+https://x-clone-gray-iota.vercel.app
 
 ---
 ## 🚀 About This Repository
